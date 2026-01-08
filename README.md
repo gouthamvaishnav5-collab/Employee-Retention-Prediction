@@ -59,3 +59,11 @@ A Streamlit-based application was developed to predict job-change likelihood for
 The application was tested locally, and the complete application code is included in this repository.
 
 ## 📁 Repository Structure
+
+Employee-Retention-Prediction/
+├── data/
+├── notebooks/
+├── model/
+├── app/
+├── main_xgb.py
+
